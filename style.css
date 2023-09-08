@@ -687,7 +687,7 @@ video {
     /* page 4 styles */
     #page4 {
 
-        height: 60vh;
+        height: 42vh;
         flex-direction: column;
         gap: 2vh;
         padding: 5vw;
@@ -709,6 +709,7 @@ video {
 
 
     #footer {
+        position: absolute;
         flex-direction: column;
         height: 43vh;
         align-items: flex-start;
