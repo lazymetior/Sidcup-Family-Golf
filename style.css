@@ -710,15 +710,15 @@ video {
 
     #footer {
         flex-direction: column;
-        height: 70vh;
+        height: 43vh;
         align-items: flex-start;
         padding: 2vh 4vw;
         gap: 0;
     }
 
     #footer>img {
-        top: 15vh;
-        height: 40%;
+        top: 21vh;
+        height: 50%;
 
     }
 
