@@ -711,7 +711,7 @@ video {
     #footer {
         position: absolute;
         flex-direction: column;
-        height: 43vh;
+        height: 46vh;
         align-items: flex-start;
         padding: 2vh 4vw;
         gap: 0;
